@@ -23,18 +23,8 @@
    - 集成Swagger UI接口文档
    - 支持JWT认证的API测试
 
-## 项目结构
-src/main/java/com/example/demo/
-├── DemoApplication.java          # 应用程序入口
-├── auth/
-│   └── CustomRealm.java         # Shiro自定义认证授权实现
-├── config/
-│   ├── ShiroConfig.java         # Shiro配置类
-│   └── SwaggerConfig.java       # Swagger配置类
-├── controller/
-│   └── AuthController.java      # 认证相关接口
-└── util/
-└── JwtUtil.java            # JWT工具类
+![image](https://github.com/user-attachments/assets/f61baa4c-095d-419b-99f0-5669d36531bb)
+
 
 ## API接口说明
 
